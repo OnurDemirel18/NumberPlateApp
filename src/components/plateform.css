@@ -1,0 +1,28 @@
+.text{
+    font-size: '20px';
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.margin_inside{
+    margin-top: 2%;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    max-width: 100%;
+    
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+}
+

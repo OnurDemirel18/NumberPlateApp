@@ -1,0 +1,15 @@
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.font{
+    
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bold{
+    font-weight: bold;
+}

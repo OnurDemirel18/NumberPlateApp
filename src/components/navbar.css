@@ -1,0 +1,10 @@
+.yerlesim{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text{
+    
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+}
